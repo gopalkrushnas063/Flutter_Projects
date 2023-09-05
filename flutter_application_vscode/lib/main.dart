@@ -11,6 +11,9 @@ void main() {
 
 // State
 
+// 1. Material Design
+// 2. Cupertino Design
+
 class MyApp extends StatelessWidget{
   const MyApp({super.key});
 
